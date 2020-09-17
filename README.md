@@ -20,7 +20,7 @@ Other installation options:
 
 ### Configuration
 
-Locate the [user-specific config.yaml file](https://github.com/tigerconnect/desktop-app)#user-configuration-file).
+Locate the [user-specific config.yaml file](https://github.com/tigerconnect/desktop-app#user-configuration-file).
 
 Example of using the QA auto-update channel:
 
