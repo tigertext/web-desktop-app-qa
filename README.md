@@ -31,8 +31,8 @@ autoUpdateOptions:
   owner: "tigertext"
 ```
 
-Example of using Messenger from the UAT environment:
+Example of using the latest master branch code of Messenger with data from the production environment:
 
 ```yaml
-targetUrl: "https://login.tigerconnect.com/uat/app/messenger/?apiEnv=prod"
+targetUrl: "https://login.tigerconnect.xyz/app/messenger/?apiEnv=prod"
 ```
